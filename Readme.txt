@@ -32,7 +32,7 @@ The NizFrank Marketing Consultant website is a fully responsive, user-friendly, 
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/nizfrank-marketing.git
+   git clone https://github.com/ClemenceKyende/nizfrank-marketing-site.git
 
 2. **Navigate to the Project Folder**  
    ```bash
